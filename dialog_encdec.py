@@ -1073,9 +1073,10 @@ class DialogEncoderDecoder(Model):
         self.word_freq = dict([(tok_id, freq) for _, tok_id, freq, _ in raw_dict])
         self.document_freq = dict([(tok_id, df) for _, tok_id, _, df in raw_dict])
 
+        # This warning only applies to the MovieTriples dataset
         if '</s>' not in self.str_to_idx \
            or '<s>' not in self.str_to_idx:
-                raise Exception("Error, malformed dictionary!")
+                print("Warning, potentially malformed dictionary!")
          
         # Number of words in the dictionary 
         self.idim = len(self.str_to_idx)
