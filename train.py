@@ -59,12 +59,12 @@ def save(model, timings):
     # ignore keyboard interrupt while saving
     start = time.time()
     s = signal.signal(signal.SIGINT, signal.SIG_IGN)
-    
+
     model.save(model.state['save_dir'] + '/' + model.state['run_id'] + "_" + model.state['prefix'] + 'model.npz')
     cPickle.dump(model.state, open(model.state['save_dir'] + '/' +  model.state['run_id'] + "_" + model.state['prefix'] + 'state.pkl', 'w'))
     numpy.savez(model.state['save_dir'] + '/' + model.state['run_id'] + "_" + model.state['prefix'] + 'timing.npz', **timings)
     signal.signal(signal.SIGINT, s)
-    
+
     print "Model saved, took {}".format(time.time() - start)
 
 def load(model, filename):
@@ -78,23 +78,23 @@ def load(model, filename):
 
     print "Model loaded, took {}".format(time.time() - start)
 
-def main(args):     
+def main(args):
     logging.basicConfig(level = logging.DEBUG,
                         format = "%(asctime)s: %(name)s: %(levelname)s: %(message)s")
-     
-    state = eval(args.prototype)() 
-    timings = init_timings() 
-    
-    
+
+    state = eval(args.prototype)()
+    timings = init_timings()
+
+
     if args.resume != "":
         logger.debug("Resuming %s" % args.resume)
-        
+
         state_file = args.resume + '_state.pkl'
         timings_file = args.resume + '_timing.npz'
-        
+
         if os.path.isfile(state_file) and os.path.isfile(timings_file):
             logger.debug("Loading previous state")
-            
+
             state = cPickle.load(open(state_file, 'r'))
             timings = dict(numpy.load(open(timings_file, 'r')))
             for x, y in timings.items():
@@ -104,12 +104,12 @@ def main(args):
 
     logger.debug("State:\n{}".format(pprint.pformat(state)))
     logger.debug("Timings:\n{}".format(pprint.pformat(timings)))
- 
+
     if args.force_train_all_wordemb == True:
         state['fix_pretrained_word_embeddings'] = False
 
     model = DialogEncoderDecoder(state)
-    rng = model.rng 
+    rng = model.rng
 
     if args.resume != "":
         filename = args.resume + '_model.npz'
@@ -118,9 +118,9 @@ def main(args):
             load(model, filename)
         else:
             raise Exception("Cannot resume, cannot find model file!")
-        
+
         if 'run_id' not in model.state:
-            raise Exception('Backward compatibility not ensured! (need run_id in state)')           
+            raise Exception('Backward compatibility not ensured! (need run_id in state)')
 
     else:
         # assign new run_id key
@@ -141,13 +141,13 @@ def main(args):
     eval_misclass_batch = model.build_eval_misclassification_function()
 
     random_sampler = search.RandomSampler(model)
-    beam_sampler = search.BeamSampler(model) 
+    beam_sampler = search.BeamSampler(model)
 
     logger.debug("Load data")
     train_data, \
     valid_data, = get_train_iterator(state)
     train_data.start()
-    
+
     # Build the data structures for Bleu evaluation
     if 'bleu_evaluation' in state:
         bleu_eval_n_1 = BleuEvaluator(n=1)
@@ -161,12 +161,12 @@ def main(args):
         tfidf_cs_at_1_eval = TFIDF_CS_Evaluator(model, train_data.data_len, 1)
         tfidf_cs_at_5_eval = TFIDF_CS_Evaluator(model, train_data.data_len, 5)
 
-        samples = open(state['bleu_evaluation'], 'r').readlines() 
+        samples = open(state['bleu_evaluation'], 'r').readlines()
         n = state['bleu_context_length']
-        
+
         contexts = []
         targets = []
-        for x in samples:        
+        for x in samples:
             sentences = x.strip().split('\t')
             assert len(sentences) > n
             contexts.append(sentences[:n])
@@ -174,14 +174,14 @@ def main(args):
 
     # Start looping through the dataset
     step = 0
-    patience = state['patience'] 
+    patience = state['patience']
     start_time = time.time()
-     
+
     train_cost = 0
     train_misclass = 0
     train_done = 0
     ex_done = 0
-     
+
     while (step < state['loop_iters'] and
             (time.time() - start_time)/60. < state['time_stop'] and
             patience >= 0):
@@ -195,16 +195,16 @@ def main(args):
             print "Sampled : {}".format(samples[0])
 
         # Training phase
-        batch = train_data.next() 
+        batch = train_data.next()
 
         # Train finished
         if not batch:
             # Restart training
             logger.debug("Got None...")
             break
-        
+
         logger.debug("[TRAIN] - Got batch %d,%d" % (batch['x'].shape[1], batch['max_length']))
-        
+
         x_data = batch['x']
         x_data_reversed = batch['x_reversed']
         max_length = batch['max_length']
@@ -286,16 +286,16 @@ def main(args):
                 valid_highest_triples = numpy.ones((valid_extrema_setsize,state['seqlen']))*(-1000)
 
 
-                logger.debug("[VALIDATION START]") 
-                
+                logger.debug("[VALIDATION START]")
+
                 while True:
                     batch = valid_data.next()
                     # Train finished
                     if not batch:
                         break
-                     
+
                     logger.debug("[VALID] - Got batch %d,%d" % (batch['x'].shape[1], batch['max_length']))
-        
+
                     x_data = batch['x']
                     x_data_reversed = batch['x_reversed']
                     max_length = batch['max_length']
@@ -307,14 +307,14 @@ def main(args):
 
                     c_list = c_list.reshape((batch['x'].shape[1],max_length), order=(1,0))
                     c_list = numpy.sum(c_list, axis=1)
-                    
+
                     words_in_triples = numpy.sum(x_cost_mask, axis=0)
                     c_list = c_list / words_in_triples
-                    
+
 
                     if numpy.isinf(c) or numpy.isnan(c):
                         continue
-                    
+
                     valid_cost += c
 
                     # Store validation costs in list
@@ -322,7 +322,7 @@ def main(args):
                     triples_in_batch = nxt-valid_triples_done
                     valid_cost_list[(nxt-triples_in_batch):nxt] = numpy.exp(c_list[0:triples_in_batch])
 
-                    # Store best and worst validation costs                    
+                    # Store best and worst validation costs
                     con_costs = np.concatenate([valid_lowest_costs, c_list[0:triples_in_batch]])
                     con_triples = np.concatenate([valid_lowest_triples, x_data[:, 0:triples_in_batch].T], axis=0)
                     con_indices = con_costs.argsort()[0:valid_extrema_setsize][::1]
@@ -381,7 +381,7 @@ def main(args):
                         # Compute cross-entropy error on predicting the semantic class and retrieve predictions
                         sem_eval = eval_semantic_batch(x_data, x_data_reversed, max_length, x_cost_mask, x_semantic)
 
-                        # Evaluate only non-empty triples (empty triples are created to fill 
+                        # Evaluate only non-empty triples (empty triples are created to fill
                         #   the whole batch sometimes).
                         sem_cost = sem_eval[0][-1, :, :]
                         valid_semantic_cost += numpy.sum(sem_cost[x_semantic_nonempty_indices])
@@ -398,8 +398,8 @@ def main(args):
                     valid_triples_done += batch['num_triples']
 
 
-                logger.debug("[VALIDATION END]") 
-                 
+                logger.debug("[VALIDATION END]")
+
                 valid_cost /= valid_wordpreds_done
                 valid_misclass /= float(valid_wordpreds_done)
                 valid_empirical_mutual_information /= float(valid_triples_done)
@@ -441,12 +441,12 @@ def main(args):
 
                 # Print 5 of 10% validation samples with highest log-likelihood
                 if state['track_extrema_validation_samples']==True:
-                    print " highest word log-likelihood valid samples: " 
+                    print " highest word log-likelihood valid samples: "
                     np.random.shuffle(valid_lowest_triples)
                     for i in range(valid_extrema_samples_to_print):
                         print "      Sample: {}".format(" ".join(model.indices_to_words(numpy.ravel(valid_lowest_triples[i,:]))))
 
-                    print " lowest word log-likelihood valid samples: " 
+                    print " lowest word log-likelihood valid samples: "
                     np.random.shuffle(valid_highest_triples)
                     for i in range(valid_extrema_samples_to_print):
                         print "      Sample: {}".format(" ".join(model.indices_to_words(numpy.ravel(valid_highest_triples[i,:]))))
@@ -483,22 +483,22 @@ def main(args):
 
             assert len(samples) == len(contexts)
             #print 'samples', samples
-             
+
             # Bleu evaluation
             bleu_n_1 = bleu_eval_n_1.evaluate(samples, targets)
-            print "** bleu score (n=1) = %.4f " % bleu_n_1[0] 
+            print "** bleu score (n=1) = %.4f " % bleu_n_1[0]
             timings["valid_bleu_n_1"].append(bleu_n_1[0])
 
             bleu_n_2 = bleu_eval_n_2.evaluate(samples, targets)
-            print "** bleu score (n=2) = %.4f " % bleu_n_2[0] 
+            print "** bleu score (n=2) = %.4f " % bleu_n_2[0]
             timings["valid_bleu_n_2"].append(bleu_n_2[0])
 
             bleu_n_3 = bleu_eval_n_3.evaluate(samples, targets)
-            print "** bleu score (n=3) = %.4f " % bleu_n_3[0] 
+            print "** bleu score (n=3) = %.4f " % bleu_n_3[0]
             timings["valid_bleu_n_3"].append(bleu_n_3[0])
 
             bleu_n_4 = bleu_eval_n_4.evaluate(samples, targets)
-            print "** bleu score (n=4) = %.4f " % bleu_n_4[0] 
+            print "** bleu score (n=4) = %.4f " % bleu_n_4[0]
             timings["valid_bleu_n_4"].append(bleu_n_4[0])
 
             # Jaccard evaluation
@@ -530,7 +530,7 @@ def main(args):
             timings["tfidf_cs_at_5"].append(tfidf_cs_at_5)
 
         step += 1
-
+    save(model, timings)
     logger.debug("All done, exiting...")
 
 def parse_args():
@@ -538,7 +538,7 @@ def parse_args():
     parser.add_argument("--resume", type=str, default="", help="Resume training from that state")
     parser.add_argument("--force_train_all_wordemb", action='store_true', help="If true, will force the model to train all word embeddings in the encoder. This switch can be used to fine-tune a model which was trained with fixed (pretrained)  encoder word embeddings.")
 
-    parser.add_argument("--prototype", type=str, help="Use the prototype", default='prototype_state')
+    parser.add_argument("--prototype", type=str, help="Use the prototype", default='prototype_train')
 
     args = parser.parse_args()
     return args

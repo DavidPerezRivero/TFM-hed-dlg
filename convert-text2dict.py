@@ -12,7 +12,7 @@ import operator
 import os
 import sys
 import logging
-import cPickle
+import pickle as cPickle
 import itertools
 from collections import Counter
 
@@ -24,7 +24,7 @@ def safe_pickle(obj, filename):
         logger.info("Overwriting %s." % filename)
     else:
         logger.info("Saving to %s." % filename)
-    
+
     with open(filename, 'wb') as f:
         cPickle.dump(obj, f, protocol=cPickle.HIGHEST_PROTOCOL)
 
@@ -54,7 +54,7 @@ if args.dict != "":
     # Load external dictionary
     assert os.path.isfile(args.dict)
     vocab = dict([(x[0], x[1]) for x in cPickle.load(open(args.dict, "r"))])
-    
+
     # Check consistency
     assert '<unk>' in vocab
     assert '<s>' in vocab
@@ -65,10 +65,10 @@ else:
 
     for line in open(args.input, 'r'):
         s = [x for x in line.strip().split()]
-        word_counter.update(s) 
+        word_counter.update(s)
 
     total_freq = sum(word_counter.values())
-    logger.info("Total word frequency in dictionary %d " % total_freq) 
+    logger.info("Total word frequency in dictionary %d " % total_freq)
 
     if args.cutoff != -1:
         logger.info("Cutoff %d" % args.cutoff)
@@ -105,7 +105,7 @@ for line, triple in enumerate(open(args.input, 'r')):
 
     utterances = triple.split('\t')
     for i, utterance in enumerate(utterances):
-        
+
         utterance_lst = []
         for word in utterance.strip().split():
             word_id = vocab.get(word, 0)
@@ -113,12 +113,12 @@ for line, triple in enumerate(open(args.input, 'r')):
             utterance_lst.append(word_id)
             freqs[word_id] += 1
 
-        num_terms += len(utterance_lst) 
-        
+        num_terms += len(utterance_lst)
+
         # Here, we filter out unknown triple text and empty triples
         # i.e. <s> </s> or <s> 0 </s>
         if utterance_lst != [0] and len(utterance_lst):
-            triple_lst.append([1] + utterance_lst + [2]) 
+            triple_lst.append([1] + utterance_lst + [2])
             freqs[1] += 1
             freqs[2] += 1
             df[1] += 1

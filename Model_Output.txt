@@ -1,0 +1,121 @@
+2019-10-18 19:48:11,665: __main__: DEBUG: State:
+{'add_semantic_information_to_utterance_decoder': False,
+ 'bidirectional_utterance_encoder': True,
+ 'bleu_context_length': 300,
+ 'bleu_evaluation': './tests/bleu/bleu_evaluation',
+ 'bootstrap_from_semantic_information': False,
+ 'bs': 40,
+ 'compute_mutual_information': True,
+ 'cost_threshold': 1.003,
+ 'cutoff': 1.0,
+ 'dcgm_encoder': False,
+ 'decoder_bias_type': 'all',
+ 'deep_out': True,
+ 'dictionary': 'Data/Training.dict.pkl',
+ 'direct_connection_between_encoders_and_decoder': False,
+ 'encode_with_l2_pooling': True,
+ 'end_sym_sentence': '</s>',
+ 'eos_sym': 2,
+ 'eot_sym': 3,
+ 'fix_pretrained_word_embeddings': False,
+ 'initialize_from_pretrained_word_embeddings': False,
+ 'len_sample': 40,
+ 'level': 'DEBUG',
+ 'loop_iters': 3000000,
+ 'lr': 0.0001,
+ 'max_iters': 10,
+ 'maxout_out': True,
+ 'minerr': -1,
+ 'oov': '<unk>',
+ 'patience': 5,
+ 'prefix': 'testmodel_',
+ 'pretrained_word_embeddings_file': '',
+ 'print_extrema_samples_count': 5,
+ 'qdim': 600,
+ 'rankdim': 300,
+ 'save_dir': 'Output',
+ 'sdim': 1200,
+ 'seed': 1234,
+ 'semantic_information_decrease_rate': 0.001,
+ 'semantic_information_dim': 300,
+ 'semantic_information_start_weight': 0.95,
+ 'sent_rec_activation': 'lambda x: T.tanh(x)',
+ 'sent_step_type': 'gated',
+ 'seqlen': 100,
+ 'sort_k_batches': 20,
+ 'sos_sym': 1,
+ 'start_sym_sentence': '<s>',
+ 'test_semantic': './tests/data/ttest.semantic.pkl',
+ 'test_triples': 'Data/Test.triples.pkl',
+ 'tie_encoder_parameters': False,
+ 'time_stop': 44640,
+ 'track_extrema_samples_count': 100,
+ 'track_extrema_validation_samples': True,
+ 'train_freq': 10,
+ 'train_semantic': './tests/data/ttrain.semantic.pkl',
+ 'train_triples': 'Data/Training.triples.pkl',
+ 'triple_rec_activation': 'lambda x: T.tanh(x)',
+ 'triple_step_type': 'gated',
+ 'unk_sym': 0,
+ 'updater': 'adam',
+ 'use_nce': False,
+ 'valid_freq': 1000,
+ 'valid_semantic': './tests/data/tvalid.semantic.pkl',
+ 'valid_triples': 'Data/Validation.triples.pkl'}
+2019-10-18 19:48:11,666: __main__: DEBUG: Timings:
+{'tfidf_cs_at_1': [],
+ 'tfidf_cs_at_5': [],
+ 'train_cost': [],
+ 'train_misclass': [],
+ 'valid_bleu_n_1': [],
+ 'valid_bleu_n_2': [],
+ 'valid_bleu_n_3': [],
+ 'valid_bleu_n_4': [],
+ 'valid_cost': [],
+ 'valid_emi': [],
+ 'valid_jaccard': [],
+ 'valid_misclass': [],
+ 'valid_mrr_at_5': [],
+ 'valid_recall_at_1': [],
+ 'valid_recall_at_5': []}
+2019-10-18 19:48:11,669: model: DEBUG: idim: 71
+2019-10-18 19:48:11,669: model: DEBUG: Initializing Theano variables
+2019-10-18 19:48:11,686: model: DEBUG: Decoder bias type all
+2019-10-18 19:48:11,692: model: DEBUG: Initializing forward utterance encoder
+2019-10-18 19:48:12,122: model: DEBUG: Build forward utterance encoder
+2019-10-18 19:48:13,336: model: DEBUG: Initializing backward utterance encoder
+2019-10-18 19:48:13,766: model: DEBUG: Build backward utterance encoder
+2019-10-18 19:48:13,821: model: DEBUG: Initializing dialog encoder
+2019-10-18 19:48:17,007: model: DEBUG: Build dialog encoder
+2019-10-18 19:48:17,049: model: DEBUG: Initializing decoder
+2019-10-18 19:48:18,252: model: DEBUG: Build decoder (NCE)
+2019-10-18 19:48:18,396: model: DEBUG: Build decoder (EVAL)
+2019-10-18 19:48:20,487: model: DEBUG: Will train all word embeddings
+2019-10-18 19:48:21,133: __main__: DEBUG: Compile trainer
+2019-10-18 19:48:21,133: __main__: DEBUG: Training with exact log-likelihood
+2019-10-18 19:48:21,133: model: DEBUG: Building train function
+/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/dialog_encdec.py:895: UserWarning: theano.function was asked to create a function computing outputs given certain inputs, but the provided input variable at index 4 is not part of the computational graph needed to compute the outputs: x_semantic.
+To make this warning into an error, you can pass the parameter on_unused_input='raise' to theano.function. To disable it completely, use on_unused_input='ignore'.
+  name="train_fn")
+2019-10-18 19:49:19,709: model: DEBUG: Building evaluation function
+/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/dialog_encdec.py:921: UserWarning: theano.function was asked to create a function computing outputs given certain inputs, but the provided input variable at index 4 is not part of the computational graph needed to compute the outputs: x_semantic.
+To make this warning into an error, you can pass the parameter on_unused_input='raise' to theano.function. To disable it completely, use on_unused_input='ignore'.
+  on_unused_input='warn', name="eval_fn")
+2019-10-18 19:49:25,226: model: DEBUG: Building misclassification evaluation function
+2019-10-18 19:49:28,824: __main__: DEBUG: Load data
+2019-10-18 19:49:28,835: SS_dataset: DEBUG: Data len is 1001
+2019-10-18 19:49:28,835: SS_dataset: DEBUG: Semantic data len is 2
+Traceback (most recent call last):
+  File "train.py", line 551, in <module>
+    main(args)
+  File "train.py", line 148, in main
+    valid_data, = get_train_iterator(state)
+  File "/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/data_iterator.py", line 201, in get_train_iterator
+    max_len=state['seqlen']) 
+  File "/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/data_iterator.py", line 115, in __init__
+    use_infinite_loop=kwargs.pop('use_infinite_loop', False))
+  File "/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/SS_dataset.py", line 76, in __init__
+    self.load_files()
+  File "/Users/davidperezrivero/Downloads/Master/TFM/4. Codigos/hed-dlg/SS_dataset.py", line 89, in load_files
+    assert self.semantic_data_len == self.data_len 
+AssertionError

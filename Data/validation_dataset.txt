@@ -1,0 +1,1001 @@
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a expensive price range with <NORP> food in <GPE>
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in a expensive price range in <GPE>
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people with <NORP> food in <GPE>
+i'm on it, which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a cheap price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table with <NORP> food for <CARDINAL>
+i'm on it, where should it be	in <GPE>	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a cheap price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+where should it be	bombay please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in a expensive price range for <CARDINAL> with <NORP> food in <GPE>
+hello what can i help you with <DATE>	can you book a table in a expensive price range for <CARDINAL> with <NORP> food in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> food in a expensive price range for <CARDINAL>
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a expensive price range with <NORP> food for <CARDINAL> people
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a expensive price range with <NORP> food for <CARDINAL> people	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in <GPE> in a expensive price range with <NORP> cuisine
+hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in <GPE> in a expensive price range with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> food in a expensive price range in <GPE> for <CARDINAL>
+hello what can i help you with <DATE>	can you book a table with <NORP> food in a expensive price range in <GPE> for <CARDINAL>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in <GPE> in a cheap price range with <NORP> food
+i'm on it, how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> food for <CARDINAL> in a expensive price range
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table with <NORP> food for <CARDINAL> people in a expensive price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in <GPE> for <CARDINAL> people in a moderate price range
+hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in <GPE> for <CARDINAL> people in a moderate price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range with <NORP> cuisine in <GPE> for <CARDINAL> people
+hello what can i help you with <DATE>	i'd like to book a table in a expensive price range with <NORP> cuisine in <GPE> for <CARDINAL> people	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine in <GPE> for <CARDINAL>
+i'm on it, which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in <GPE> in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in <GPE> in a cheap price range
+i'm on it, how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in <GPE> with <NORP> cuisine in a expensive price range
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in <GPE> in a expensive price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in a cheap price range with <NORP> food
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people with <NORP> cuisine in <GPE> in a expensive price range
+hello what can i help you with <DATE>	can you book a table for <CARDINAL> people with <NORP> cuisine in <GPE> in a expensive price range	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in a cheap price range with <NORP> food
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> food in <GPE> for <CARDINAL> in a cheap price range
+hello what can i help you with <DATE>	can you book a table with <NORP> food in <GPE> for <CARDINAL> in a cheap price range	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> food in a cheap price range in <GPE> for <CARDINAL>
+hello what can i help you with <DATE>	may i have a table with <NORP> food in a cheap price range in <GPE> for <CARDINAL>	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL>
+i'm on it, where should it be	<GPE> please	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in a expensive price range for <CARDINAL> people in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> in a moderate price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> in a expensive price range with <NORP> cuisine
+hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> in a expensive price range with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in a cheap price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in bombay
+i'm on it, any preference on a type of cuisine	with <NORP> food	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> in a cheap price range in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a expensive price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+where should it be	in <GPE>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in a moderate price range with <NORP> food for <CARDINAL> in bombay
+hello what can i help you with <DATE>	i'd like to book a table in a moderate price range with <NORP> food for <CARDINAL> in <GPE>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range in <GPE> for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people in <GPE> with <NORP> cuisine
+hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people in <GPE> with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in <GPE> for <CARDINAL>
+i'm on it, which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in a cheap price range for <CARDINAL>
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food in a expensive price range in <GPE> for <CARDINAL>
+hello what can i help you with <DATE>	i'd like to book a table with <NORP> food in a expensive price range in <GPE> for <CARDINAL>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> in madrid
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	which price range are looking for
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in a cheap price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+where should it be	<GPE> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table for <CARDINAL>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a expensive price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in <GPE> for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	which price range are looking for
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table for <CARDINAL> in a expensive price range with <NORP> food in <GPE>
+hello what can i help you with <DATE>	can you book a table for <CARDINAL> in a expensive price range with <NORP> food in <GPE>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine in <GPE>
+i'm on it, how many people would be in your party	for <CARDINAL> people please	which price range are looking for
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a moderate price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in a cheap price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a moderate price range with <NORP> cuisine in <GPE> for <CARDINAL>
+hello what can i help you with <DATE>	i'd like to book a table in a moderate price range with <NORP> cuisine in <GPE> for <CARDINAL>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> cuisine for <CARDINAL> people
+i'm on it, which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine for <CARDINAL> people in a expensive price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range with <NORP> cuisine for <CARDINAL> people in <GPE>
+hello what can i help you with <DATE>	i'd like to book a table in a expensive price range with <NORP> cuisine for <CARDINAL> people in <GPE>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in a expensive price range in <GPE> for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a expensive price range for <CARDINAL> people in <GPE> with <NORP> food
+hello what can i help you with <DATE>	may i have a table in a expensive price range for <CARDINAL> people in <GPE> with <NORP> food	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in <GPE> in a cheap price range for <CARDINAL> people
+hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in <GPE> in a cheap price range for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in <GPE> with <NORP> cuisine in a moderate price range for <CARDINAL> people
+hello what can i help you with <DATE>	can you book a table in <GPE> with <NORP> cuisine in a moderate price range for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food
+i'm on it, where should it be	bombay please	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range with <NORP> food in <GPE>
+i'm on it, how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a cheap price range for <CARDINAL> in <GPE> with <NORP> cuisine
+hello what can i help you with <DATE>	can you book a table in a cheap price range for <CARDINAL> in <GPE> with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> in a expensive price range with <NORP> food
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine
+i'm on it, where should it be	bombay please	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in a moderate price range for <CARDINAL> with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine in a expensive price range
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine in <GPE> in a expensive price range
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> cuisine in a cheap price range
+i'm on it, how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> in a expensive price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a moderate price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> with <NORP> cuisine
+i'm on it, how many people would be in your party	for <CARDINAL> please	which price range are looking for
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in <GPE> in a moderate price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a cheap price range with <NORP> food for <CARDINAL> people
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a cheap price range with <NORP> food for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a cheap price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a moderate restaurant
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in a cheap price range for <CARDINAL> with <NORP> cuisine in <GPE>
+hello what can i help you with <DATE>	can you make a restaurant reservation in a cheap price range for <CARDINAL> with <NORP> cuisine in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in a moderate price range in <GPE> with <NORP> cuisine
+hello what can i help you with <DATE>	may i have a table for <CARDINAL> in a moderate price range in <GPE> with <NORP> cuisine	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a cheap price range with <NORP> food in <GPE> for <CARDINAL> people
+hello what can i help you with <DATE>	i'd like to book a table in a cheap price range with <NORP> food in <GPE> for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> food in a moderate price range for <CARDINAL> people
+hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> food in a moderate price range for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> with <NORP> cuisine
+i'm on it, which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in a cheap price range in bombay
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in a moderate price range in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table for <CARDINAL> with <NORP> cuisine in a moderate price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in a expensive price range with <NORP> food for <CARDINAL> people
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a moderate price range for <CARDINAL> people with <NORP> food
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a moderate price range for <CARDINAL> people with <NORP> food	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a moderate restaurant
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> with <NORP> food
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food in a cheap price range for <CARDINAL> people
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> food for <CARDINAL>
+i'm on it, which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people with <NORP> food in a moderate price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a cheap price range with <NORP> cuisine in <GPE>
+hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a cheap price range with <NORP> cuisine in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range with <NORP> food
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range in <GPE> with <NORP> cuisine for <CARDINAL>
+hello what can i help you with <DATE>	i'd like to book a table in a expensive price range in <GPE> with <NORP> cuisine for <CARDINAL>	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people with <NORP> food
+i'm on it, where should it be	bombay please	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	bombay please	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> in a moderate price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food
+i'm on it, where should it be	bombay please	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in a moderate price range with <NORP> food
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> food in <GPE>
+i'm on it, how many people would be in your party	we will be <CARDINAL>	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in a moderate price range
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a expensive price range in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in <GPE> with <NORP> food in a cheap price range
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a moderate price range in <GPE> with <NORP> food for <CARDINAL>
+hello what can i help you with <DATE>	may i have a table in a moderate price range in <GPE> with <NORP> food for <CARDINAL>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table for <CARDINAL> with <NORP> food in a expensive price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a cheap price range with <NORP> cuisine
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table for <CARDINAL> with <NORP> cuisine in <GPE> in a cheap price range
+hello what can i help you with <DATE>	may i have a table for <CARDINAL> with <NORP> cuisine in <GPE> in a cheap price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> people with <NORP> food
+i'm on it, which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range in <GPE> for <CARDINAL> people with <NORP> food
+hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range in <GPE> for <CARDINAL> people with <NORP> food	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table with <NORP> food in <GPE>
+i'm on it, how many people would be in your party	we will be <CARDINAL>	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people in <GPE> with <NORP> food
+i'm on it, which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people in a expensive price range with <NORP> food
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> food
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people with <NORP> food in <GPE> in a cheap price range
+hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people with <NORP> food in <GPE> in a cheap price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL>
+i'm on it, where should it be	bombay please	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range with <NORP> food
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine
+i'm on it, where should it be	bombay please	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a moderate restaurant
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in bombay
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> food in a expensive price range in <GPE>
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in <GPE> with <NORP> cuisine
+i'm on it, how many people would be in your party	for <CARDINAL> people please	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> in a expensive price range with <NORP> food
+i'm on it, how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE> with <NORP> cuisine
+i'm on it, how many people would be in your party	for <CARDINAL> please	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> with <NORP> cuisine
+i'm on it, how many people would be in your party	we will be <CARDINAL>	which price range are looking for
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people in <GPE> in a expensive price range with <NORP> food
+hello what can i help you with <DATE>	can you book a table for <CARDINAL> people in <GPE> in a expensive price range with <NORP> food	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people with <NORP> cuisine in <GPE>
+hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> people with <NORP> cuisine in <GPE>	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in bombay
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine for <CARDINAL> people
+i'm on it, where should it be	in <GPE>	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people in <GPE> with <NORP> cuisine
+i'm on it, which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine in <GPE> for <CARDINAL> people in a cheap price range
+hello what can i help you with <DATE>	may i have a table with <NORP> cuisine in <GPE> for <CARDINAL> people in a cheap price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people in <GPE> with <NORP> cuisine
+i'm on it, which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table for <CARDINAL> people in bombay
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine for <CARDINAL> in a cheap price range in <GPE>
+hello what can i help you with <DATE>	can you book a table with <NORP> cuisine for <CARDINAL> in a cheap price range in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in a cheap price range
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in a moderate price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+where should it be	<GPE> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a expensive price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table for <CARDINAL> with <NORP> food in a expensive price range
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in <GPE> with <NORP> food
+i'm on it, which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine in <GPE> for <CARDINAL>
+i'm on it, which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> food in <GPE> for <CARDINAL> people in a moderate price range
+hello what can i help you with <DATE>	may i have a table with <NORP> food in <GPE> for <CARDINAL> people in a moderate price range	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> with <NORP> cuisine for <CARDINAL> people in a cheap price range
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> with <NORP> cuisine for <CARDINAL> people in a cheap price range	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL> people in a moderate price range in <GPE>
+hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL> people in a moderate price range in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range in <GPE> for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine for <CARDINAL> people
+i'm on it, where should it be	<GPE> please	which price range are looking for
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> in a expensive price range with <NORP> cuisine for <CARDINAL> people
+hello what can i help you with <DATE>	may i have a table in <GPE> in a expensive price range with <NORP> cuisine for <CARDINAL> people	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a cheap price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people with <NORP> food
+i'm on it, where should it be	in <GPE>	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine in <GPE>
+i'm on it, how many people would be in your party	we will be <CARDINAL>	which price range are looking for
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine in a moderate price range for <CARDINAL> people
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in a cheap price range
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in a expensive price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL> people in a cheap price range in <GPE>
+hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL> people in a cheap price range in <GPE>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> in a moderate price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> food for <CARDINAL> people in a moderate price range in bombay
+hello what can i help you with <DATE>	can you book a table with <NORP> food for <CARDINAL> people in a moderate price range in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a moderate price range for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+where should it be	<GPE> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people in a cheap price range with <NORP> cuisine
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people in a cheap price range with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people with <NORP> food in a cheap price range
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people with <NORP> food in a cheap price range	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a cheap price range in <GPE> for <CARDINAL> people with <NORP> cuisine
+hello what can i help you with <DATE>	can you book a table in a cheap price range in <GPE> for <CARDINAL> people with <NORP> cuisine	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a cheap price range with <NORP> food for <CARDINAL>
+i'm on it, where should it be	in <GPE>	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food in <GPE> in a expensive price range for <CARDINAL> people
+hello what can i help you with <DATE>	i'd like to book a table with <NORP> food in <GPE> in a expensive price range for <CARDINAL> people	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a expensive price range with <NORP> cuisine for <CARDINAL> in <GPE>
+hello what can i help you with <DATE>	may i have a table in a expensive price range with <NORP> cuisine for <CARDINAL> in <GPE>	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a moderate restaurant
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a moderate restaurant
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table with <NORP> food in <GPE> in a expensive price range
+i'm on it, how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a moderate price range with <NORP> food in bombay
+hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a moderate price range with <NORP> food in <GPE>	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in a expensive price range for <CARDINAL>
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+where should it be	in <GPE>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine in <GPE> in a expensive price range
+i'm on it, how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in a moderate price range for <CARDINAL> people in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> people in a expensive price range with <NORP> food
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine in a moderate price range for <CARDINAL>
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in <GPE> in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in a expensive price range with <NORP> cuisine for <CARDINAL> people
+i'm on it, where should it be	<GPE> please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in <GPE> in a cheap price range with <NORP> food
+hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people in <GPE> in a cheap price range with <NORP> food	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in <GPE> for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> people in a moderate price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in a cheap price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+where should it be	bombay please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine for <CARDINAL> people in <GPE>
+i'm on it, which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table with <NORP> food in a expensive price range in bombay
+i'm on it, how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table with <NORP> cuisine for <CARDINAL>
+i'm on it, where should it be	<GPE> please	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food for <CARDINAL> people in a moderate price range
+i'm on it, where should it be	bombay please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table for <CARDINAL> in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	which price range are looking for
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table in a moderate price range in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in a moderate price range for <CARDINAL> people with <NORP> cuisine in <GPE>
+hello what can i help you with <DATE>	can you book a table in a moderate price range for <CARDINAL> people with <NORP> cuisine in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> with <NORP> food in <GPE> in a moderate price range
+hello what can i help you with <DATE>	can you make a restaurant reservation for <CARDINAL> with <NORP> food in <GPE> in a moderate price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people with <NORP> cuisine in a cheap price range
+hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> for <CARDINAL> people with <NORP> cuisine in a cheap price range	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people with <NORP> food in <GPE> in a expensive price range
+hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people with <NORP> food in <GPE> in a expensive price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> in <GPE> in a cheap price range
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine for <CARDINAL>
+i'm on it, where should it be	in <GPE>	which price range are looking for
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range for <CARDINAL> in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	i am looking for a expensive restaurant
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table for <CARDINAL> in a cheap price range in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> food	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food
+i'm on it, where should it be	bombay please	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table in <GPE>
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table in a expensive price range for <CARDINAL> people with <NORP> food in <GPE>
+hello what can i help you with <DATE>	can you book a table in a expensive price range for <CARDINAL> people with <NORP> food in <GPE>	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a cheap price range
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> food
+i'm on it, how many people would be in your party	for <CARDINAL> people please	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in bombay
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in a cheap price range with <NORP> cuisine
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in a moderate price range
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+<GPE> please	how many people would be in your party	for <CARDINAL> people please
+how many people would be in your party	for <CARDINAL> people please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table in <GPE> with <NORP> cuisine
+i'm on it, how many people would be in your party	for <CARDINAL> people please	which price range are looking for
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> please
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table with <NORP> cuisine for <CARDINAL>
+i'm on it, where should it be	<GPE> please	which price range are looking for
+which price range are looking for	i am looking for a expensive restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+in <GPE>	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	i'd like to book a table in <GPE> in a cheap price range with <NORP> food
+i'm on it, how many people would be in your party	we will be <CARDINAL>	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	may i have a table in <GPE> for <CARDINAL> people with <NORP> cuisine
+i'm on it, which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table for <CARDINAL> people
+i'm on it, any preference on a type of cuisine	i love <NORP> food	where should it be
+in <GPE>	which price range are looking for	in a expensive price range please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	can you book a table for <CARDINAL> in <GPE> with <NORP> cuisine in a expensive price range
+hello what can i help you with <DATE>	can you book a table for <CARDINAL> in <GPE> with <NORP> cuisine in a expensive price range	i'm on it, ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table in a moderate price range in <GPE> with <NORP> cuisine for <CARDINAL>
+hello what can i help you with <DATE>	can you book a table in a moderate price range in <GPE> with <NORP> cuisine for <CARDINAL>	i'm on it, ok let me look into some options for you
+hi	hello what can i help you with <DATE>	may i have a table with <NORP> food in <GPE> for <CARDINAL>
+i'm on it, which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> cuisine
+i'm on it, where should it be	in <GPE>	how many people would be in your party
+for <CARDINAL> please	which price range are looking for	i am looking for a cheap restaurant
+which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you make a restaurant reservation
+i'm on it, any preference on a type of cuisine	with <NORP> cuisine	where should it be
+in <GPE>	how many people would be in your party	for <CARDINAL> people please
+which price range are looking for	in a expensive price range please	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	can you book a table for <CARDINAL> with <NORP> cuisine in <GPE> in a cheap price range
+hello what can i help you with <DATE>	can you book a table for <CARDINAL> with <NORP> cuisine in <GPE> in a cheap price range	i'm on it, ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you make a restaurant reservation in <GPE> with <NORP> food for <CARDINAL>
+i'm on it, which price range are looking for	i am looking for a cheap restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	may i have a table in <GPE> with <NORP> food in a moderate price range
+i'm on it, how many people would be in your party	for <CARDINAL> please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
+<GPE> please	how many people would be in your party	we will be <CARDINAL>
+which price range are looking for	i am looking for a moderate restaurant	ok let me look into some options for you
+good <TIME>	hello what can i help you with <DATE>	i'd like to book a table with <NORP> food
+i'm on it, where should it be	<GPE> please	how many people would be in your party
+we will be <CARDINAL>	which price range are looking for	in a cheap price range please
+which price range are looking for	in a cheap price range please	ok let me look into some options for you
+hello	hello what can i help you with <DATE>	can you book a table in <GPE>
+i'm on it, any preference on a type of cuisine	i love <NORP> food	how many people would be in your party
+for <CARDINAL> people please	which price range are looking for	in a moderate price range please
+which price range are looking for	in a moderate price range please	ok let me look into some options for you
+hi	hello what can i help you with <DATE>	i'd like to book a table
+i'm on it, any preference on a type of cuisine	with <NORP> food	where should it be
